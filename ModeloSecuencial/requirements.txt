@@ -1,0 +1,7 @@
+tensorflow 
+pillow
+pathlib 
+matplotlib
+numpy 
+scikit-learn
+keras
