@@ -1,0 +1,3 @@
+/home/yuyots/Escritorio/PracticasIA/NNCpp/build/CMakeFiles/nn.dir
+/home/yuyots/Escritorio/PracticasIA/NNCpp/build/CMakeFiles/edit_cache.dir
+/home/yuyots/Escritorio/PracticasIA/NNCpp/build/CMakeFiles/rebuild_cache.dir
