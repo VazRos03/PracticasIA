@@ -1,0 +1,8 @@
+#==================== primeras bilbiotecas para practicas de clasificacion de imagenes =============
+tensorflow 
+scikit-learn
+opencv-python 
+pillow
+numpy 
+matplotlib 
+pathlib
